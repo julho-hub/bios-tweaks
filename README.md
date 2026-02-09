@@ -1,4 +1,4 @@
-# bios-tweaks
+# bios-optimization
 
 C-states - disable <br>
 Spread Spectrum (All) - disable <br>
@@ -53,3 +53,11 @@ PowerDown Energy Ch0Dimm0- Disable<br>
 PowerDown Energy Ch0Dimm1- Disable<br>
 PowerDown Energy Ch1Dimm0- Disable<br>
 PowerDown Energy Ch1Dimm1- Disable<br>
+
+memory oc guides:
+<ul>
+<li><a href="https://github.com/KoTbelowall/INTEL-DDR4-RAM-OC-GUIDE-by-KoT/blob/main/guide.md">INTEL DDR4 RAM OC GUIDE by KoT</a></li>
+<li><a href="https://web.archive.org/web/20231211232729/https://cdn.discordapp.com/attachments/328891236918493184/1172922515962724444/DDR4_Guide_V1.2.1.pdf">Eden’s DDR4 guide</a></li>
+<li><a href="https://github.com/integralfx/MemTestHelper/tree/oc-guide?tab=readme-ov-file">DDR4 OC Guide integralfx</a></li>
+</ul>
+
